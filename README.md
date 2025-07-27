@@ -12,8 +12,8 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/github-subdomain-checker.git
-   cd github-subdomain-checker
+   git clone https://github.com/0xBakusedu/Github-404.git
+   cd Github-404
    ```
 
 2. **Install dependencies:**
